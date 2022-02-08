@@ -1,0 +1,18 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    padding: 75px 0;
+  }
+  #structure > div {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  .service-box img {
+    width: 300px;
+    margin: 2em;
+  }
+  h3 {
+      text-align: center;
+  }
